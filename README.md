@@ -45,7 +45,7 @@ ChargeOn充电桩运营管理平台是基于 SaaS 架构打造的云端电动汽
 
 ## 演示
 - 演示地址: [www.chargeon.cn:8085](https://www.chargeon.cn:8085)
-  租户: ChargeOn运营平台
+- 租户: 默认运营商
 - 账号: admin
 - 密码: 12345678
 
