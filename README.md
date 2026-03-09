@@ -45,14 +45,8 @@ ChargeOn充电桩运营管理平台是基于 SaaS 架构打造的云端电动汽
 
 ## 演示
 - 后端演示地址: [www.chargeon.cn:9000](https://www.chargeon.cn:9000)
-
-超级管理员
-账号: super
-密码: 111111
-
-租户管理员
-账号: admin
-密码: 111111
+- 超级管理员 账号: super  密码: 111111
+- 租户管理员  账号: admin 密码: 111111
 
 ## 文档
 [文档地址](https://cned5b7owj.feishu.cn/docx/MKxwdGpYSon94PxWBIocb7UAnxd?from=from_copylink)
