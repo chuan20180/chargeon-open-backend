@@ -48,7 +48,8 @@ ChargeOn充电桩运营管理平台是基于 SaaS 架构打造的云端电动汽
 - 超级管理员 账号: super  密码: 111111
 - 租户管理员  账号: admin 密码: 111111
 
-<p align="center"></p>
+<p>&nbsp;</p>
+
 - 微信小程序演示
 <p><img src="https://www.chargeon.cn/screen/minapp-qrcode.png" alt="微信小程序" width="200" height="200" /></p>
 
