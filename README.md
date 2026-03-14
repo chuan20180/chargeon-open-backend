@@ -65,7 +65,7 @@ ChargeOn充电桩运营管理平台是基于 SaaS 架构打造的云端电动汽
 
 支持定制开发，请扫描下方微信二维码我联系
 
-<img src="https://res.chargeon.cn/screen/wechat-qrcode.png" alt="微信二维码" width="300" height="300" />
+<img src="https://www.chargeon.cn/images/wechat-qr.jpeg" alt="微信二维码" width="358" height="485" />
 
 
 ## 电脑端截图
