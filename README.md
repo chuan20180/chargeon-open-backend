@@ -51,7 +51,7 @@ ChargeOn充电桩运营管理平台是基于 SaaS 架构打造的云端电动汽
 <p>&nbsp;</p>
 
 - 微信小程序演示
-<p><img src="https://www.chargeon.cn/screen/minapp-qrcode.png" alt="微信小程序" width="200" height="200" /></p>
+<p><img src="https://res.chargeon.cn/screen/minapp-qrcode.png" alt="微信小程序" width="200" height="200" /></p>
 
 ## 文档
 [文档地址](https://cned5b7owj.feishu.cn/docx/MKxwdGpYSon94PxWBIocb7UAnxd?from=from_copylink)
@@ -65,35 +65,35 @@ ChargeOn充电桩运营管理平台是基于 SaaS 架构打造的云端电动汽
 
 支持定制开发，请扫描下方微信二维码我联系
 
-<img src="https://www.chargeon.cn/screen/wechat-qrcode.png" alt="微信二维码" width="300" height="300" />
+<img src="https://res.chargeon.cn/screen/wechat-qrcode.png" alt="微信二维码" width="300" height="300" />
 
 
 ## 电脑端截图
 
 <table>
     <tr>
-        <td><img src="https://www.chargeon.cn/screen/screen-1.png" alt="登陆" width="533" height="300" /></td>
-        <td><img src="https://www.chargeon.cn/screen/screen-2.png" alt=""  width="533" height="300" /></td>
+        <td><img src="https://res.chargeon.cn/screen/screen-1.png" alt="登陆" width="533" height="300" /></td>
+        <td><img src="https://res.chargeon.cn/screen/screen-2.png" alt=""  width="533" height="300" /></td>
     </tr>
     <tr>
-        <td><img src="https://www.chargeon.cn/screen/screen-3.png" alt=""  width="533" height="300" /></td>
-        <td><img src="https://www.chargeon.cn/screen/screen-4.png" alt=""  width="533" height="300" /></td>
+        <td><img src="https://res.chargeon.cn/screen/screen-3.png" alt=""  width="533" height="300" /></td>
+        <td><img src="https://res.chargeon.cn/screen/screen-4.png" alt=""  width="533" height="300" /></td>
     </tr>
 </table>
 
 ## 手机端截图
 <table>
     <tr>
-        <td style="padding: 30px"><img src="https://www.chargeon.cn/screen/1.jpg" width="185" height="400"  alt="" /></td>
-        <td style="padding: 30px"><img src="https://www.chargeon.cn/screen/2.jpg" width="185" height="400" alt="" /></td>
-        <td style="padding: 30px"><img src="https://www.chargeon.cn/screen/3.jpg" width="185" height="400" alt="" /></td>
-        <td style="padding: 30px"><img src="https://www.chargeon.cn/screen/4.jpg" width="185" height="400"  alt="" /></td>
+        <td style="padding: 30px"><img src="https://res.chargeon.cn/screen/1.jpg" width="185" height="400"  alt="" /></td>
+        <td style="padding: 30px"><img src="https://res.chargeon.cn/screen/2.jpg" width="185" height="400" alt="" /></td>
+        <td style="padding: 30px"><img src="https://res.chargeon.cn/screen/3.jpg" width="185" height="400" alt="" /></td>
+        <td style="padding: 30px"><img src="https://res.chargeon.cn/screen/4.jpg" width="185" height="400"  alt="" /></td>
     </tr>
    <tr>
-        <td style="padding: 30px"><img src="https://www.chargeon.cn/screen/5.jpg" width="185" height="400"  alt="" /></td>
-        <td style="padding: 30px"><img src="https://www.chargeon.cn/screen/6.jpg" width="185" height="400"  alt="" /></td>
-        <td style="padding: 30px"><img src="https://www.chargeon.cn/screen/7.jpg" width="185" height="400"  alt="" /></td>
-        <td style="padding: 30px"><img src="https://www.chargeon.cn/screen/8.jpg" width="185" height="400" alt="" /></td>
+        <td style="padding: 30px"><img src="https://res.chargeon.cn/screen/5.jpg" width="185" height="400"  alt="" /></td>
+        <td style="padding: 30px"><img src="https://res.chargeon.cn/screen/6.jpg" width="185" height="400"  alt="" /></td>
+        <td style="padding: 30px"><img src="https://res.chargeon.cn/screen/7.jpg" width="185" height="400"  alt="" /></td>
+        <td style="padding: 30px"><img src="https://res.chargeon.cn/screen/8.jpg" width="185" height="400" alt="" /></td>
     </tr>
 
 </table>
